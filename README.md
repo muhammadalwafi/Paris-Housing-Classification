@@ -4,8 +4,7 @@ This project offers a structured Python class to analyze and visualize the **Par
 ---
 
 ## Project objective
-To provide a clean, object-oriented approach to handling housing datasets — including data loading, summary statistics, and basic visualizations — using Python.
-Dataset Description
+The objective of this project is to develop an end-to-end supervised machine learning classification pipeline to predict housing categories (Basic or Luxury) using structured real estate data. The project focuses on applying data preprocessing techniques, handling class imbalance, feature selection, and training classification models such as K-Nearest Neighbors (KNN) and Decision Tree to evaluate predictive performance and improve model accuracy.
 
 ---
 ## 📊 Dataset Overview
